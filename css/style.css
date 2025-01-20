@@ -1,0 +1,42 @@
+
+/*Body Styling*/
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 0;
+}
+
+/*Header Styling*/
+h1, h2 {
+    text-align: center;
+}
+
+/*Note Container Styling*/
+#notes-container {
+    margin-top: 20px;
+}
+
+/*Note Container Div Styling*/
+#notes-container div {
+    margin-bottom: 10px;
+}
+
+/*Text Box Styling*/
+textarea {
+    width: 80%;
+    height: 50px;
+    margin-right: 10px;
+}
+
+/*Button Styling*/
+button {
+    margin: 5px;
+    padding: 10px;
+}
+
+/*Time Tracker Styling*/
+#save-time, #fetch-time {
+    float: right;
+    font-size: 0.9em;
+    color: gray;
+}
